@@ -30,6 +30,21 @@
         { "title": "Правила рейдов", "path": "raid-rules.json" },
         { "title": "Правила снятия лидеров государственных структур", "path": "government-removal-rules.json" }
       ]
+    },
+    {
+      "name": "Правила для неофициальных организаций",
+      "files": [
+        { "title": "Общие правила неофициальных организаций", "path": "unofficial-organizations-general-rules.json" }
+      ]
+    },
+    {
+      "name": "Правила сервера La Puerta",
+      "files": [
+        { "title": "Общие правила La Puerta", "path": "La Puerta/la-puerta-rules.json" },
+        { "title": "Переопределения/дополнения правил криминальных фракций", "path": "La Puerta/la-puerta-criminal-additions.json" },
+        { "title": "Переопределения/дополнения правил государственных фракций", "path": "La Puerta/la-puerta-government-additions.json" },
+        { "title": "Правила Неофициальных РП-Организаций", "path": "La Puerta/unofficial-organizations-rules.json" }
+      ]
     }
   ]
 }
