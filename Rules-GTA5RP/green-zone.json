@@ -74,405 +74,63 @@
     {
       "name": "Список Зеленых Зон",
       "rules": [
-        {
-          "point": [],
-          "text": "Мэрия г. Лос Сантос",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Мэрия округа Блэйн",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Здание FIB",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Здание News",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Здание LSPD",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Здание LSSD",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Здание EMS и прилегающие к ней парковка и морг",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Шахта",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Стройка",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "",
-          "text": "Порт г. Лос-Сантос и подходящие к нему дороги (начиная от мостов)",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.11",
-          "text": "Таксопарки",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.12",
-          "text": "Места аренды инкассаторских машин",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.13",
-          "text": "Места аренды тягачей дальнобойщиков",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.14",
-          "text": "Места аренды машин механиков",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.15",
-          "text": "Магазин масок",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.16",
-          "text": "Магазины одежды",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.17",
-          "text": "Магазины оружия",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.18",
-          "text": "Банки",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.19",
-          "text": "Магазины 24/7",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.20",
-          "text": "Барбершопы",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.21",
-          "text": "Заправки",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.22",
-          "text": "Тату салоны",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.23",
-          "text": "Автосалоны",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.24",
-          "text": "Автосервисы \"Customs\" и \"Benny's\"",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.25",
-          "text": "Здание и территории автопарковок",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.26",
-          "text": "Чёрный рынок",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.27",
-          "text": "Зона выдачи ограблений",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.28",
-          "text": "Зоны сдачи контрабанды",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.29",
-          "text": "Зона дайвинга и все озеро",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.30",
-          "text": "Любая зона взаимодействия с квестами/контрактами",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.31",
-          "text": "Зоны аренды транспорта",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.32",
-          "text": "Амфитеатр",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.33",
-          "text": "Церковь, в которой происходит бракосочетание",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.34",
-          "text": "Клубы и бары",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.35",
-          "text": "Магазин рыболовных снастей",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.36",
-          "text": "Поля для вскапывания червей",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.37",
-          "text": "Зона около NPC для продажи рыбы",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.38",
-          "text": "Штрафстоянка",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.39",
-          "text": "Казино",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.40",
-          "text": "Здания офисов: Maze Bank West, Maze Bank Building, Lom Bank, Arcadius, Rockford Hills, Total Bankers",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.41",
-          "text": "Стоянки",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.42",
-          "text": "Зона NPC Майкл",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.43",
-          "text": "Зоны пирсов, предназначенные для рыбной ловли",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.44",
-          "text": "Швейная фабрика",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.45",
-          "text": "Казино и прилегающие парковки",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.46",
-          "text": "Бэйтри-Каньон-роуд",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.47",
-          "text": "Secret Shop",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.48",
-          "text": "Места сдачи контрактов",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.49",
-          "text": "Ферма",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.50",
-          "text": "Спортзал",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.51",
-          "text": "Почта",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.52",
-          "text": "Аукцион",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.53",
-          "text": "Зона картинга и прилегающая ко входу территория",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.54",
-          "text": "Функциональные футбольные/баскетбольные/волейбольные поля и теннисные корты, теннисные столы за территорией титульных районов фракций/особняков",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.55",
-          "text": "Рынок Лос-Сантос/Сэнди-Шорс",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.56",
-          "text": "Кинотеатры",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        },
-        {
-          "point": "2.57",
-          "text": "Зоны погрузки дальнобойщиков",
-          "punishment": [],
-          "notes": [],
-          "exceptions": []
-        }
+        { "point": "", "text": "Мэрия г. Лос Сантос", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Мэрия округа Блэйн", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Здание FIB", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Здание News", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Здание LSPD", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Здание LSSD", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Здание EMS и прилегающие к ней парковка и морг", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Шахта", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Стройка", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Порт г. Лос-Сантос и подходящие к нему дороги (начиная от мостов)", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Таксопарки", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Места аренды инкассаторских машин", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Места аренды тягачей дальнобойщиков", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Места аренды машин механиков", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Магазин масок", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Магазины одежды", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Магазины оружия", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Банки", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Магазины 24/7", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Барбершопы", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Заправки", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Тату салоны", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Автосалоны", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Автосервисы \"Customs\" и \"Benny's\"", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Здание и территории автопарковок", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Чёрный рынок", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зона выдачи ограблений", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зоны сдачи контрабанды", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зона дайвинга и все озеро", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Любая зона взаимодействия с квестами/контрактами", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зоны аренды транспорта", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Амфитеатр", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Церковь, в которой происходит бракосочетание", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Клубы и бары", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Магазин рыболовных снастей", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Поля для вскапывания червей", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зона около NPC для продажи рыбы", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Штрафстоянка", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Казино", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Здания офисов: Maze Bank West, Maze Bank Building, Lom Bank, Arcadius, Rockford Hills, Total Bankers", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Стоянки", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зона NPC Майкл", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зоны пирсов, предназначенные для рыбной ловли", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Швейная фабрика", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Казино и прилегающие парковки", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Бэйтри-Каньон-роуд", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Secret Shop", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Места сдачи контрактов", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Ферма", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Спортзал", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Почта", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Аукцион", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зона картинга и прилегающая ко входу территория", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Функциональные футбольные/баскетбольные/волейбольные поля и теннисные корты, теннисные столы за территорией титульных районов фракций/особняков", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Рынок Лос-Сантос/Сэнди-Шорс", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Кинотеатры", "punishment": [], "notes": [], "exceptions": [] },
+        { "point": "", "text": "Зоны погрузки дальнобойщиков", "punishment": [], "notes": [], "exceptions": [] }
       ]
     },
     {
