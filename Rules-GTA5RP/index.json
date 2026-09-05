@@ -13,7 +13,8 @@
       "name": "Правила для криминальных фракций",
       "files": [
         { "title": "Общие правила банд", "path": "rules-of-gangs.json" },
-        { "title": "Общие правила мафий", "path": "rules-of-mafia.json" }
+        { "title": "Общие правила мафий", "path": "rules-of-mafia.json" },
+        { "title": "Общие правила мафий", "path": "kidnapping-rules.json" }
       ]
     }
   ]
