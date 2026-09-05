@@ -75,70 +75,70 @@
       "name": "Список Зеленых Зон",
       "rules": [
         {
-          "point": "2.1",
+          "point": "",
           "text": "Мэрия г. Лос Сантос",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.2",
+          "point": "",
           "text": "Мэрия округа Блэйн",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.3",
+          "point": "",
           "text": "Здание FIB",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.4",
+          "point": "",
           "text": "Здание News",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.5",
+          "point": "",
           "text": "Здание LSPD",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.6",
+          "point": "",
           "text": "Здание LSSD",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.7",
+          "point": "",
           "text": "Здание EMS и прилегающие к ней парковка и морг",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.8",
+          "point": "",
           "text": "Шахта",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.9",
+          "point": "",
           "text": "Стройка",
           "punishment": [],
           "notes": [],
           "exceptions": []
         },
         {
-          "point": "2.10",
+          "point": "",
           "text": "Порт г. Лос-Сантос и подходящие к нему дороги (начиная от мостов)",
           "punishment": [],
           "notes": [],
