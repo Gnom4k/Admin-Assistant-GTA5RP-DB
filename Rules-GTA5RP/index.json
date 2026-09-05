@@ -3,7 +3,8 @@
     {
       "name": "Основной раздел",
       "files": [
-        { "title": "Общие правила проекта", "path": "general-rules.json" }
+        { "title": "Общие правила проекта", "path": "general-rules.json" },
+        { "title": "Правила зеленых зон", "path": "green-zone.json" }
       ]
     }
   ]
