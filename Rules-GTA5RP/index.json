@@ -15,7 +15,20 @@
         { "title": "Общие правила банд", "path": "rules-of-gangs.json" },
         { "title": "Общие правила мафий", "path": "rules-of-mafia.json" },
         { "title": "Правила ограблений/похищений", "path": "kidnapping-rules.json" },
-        { "title": "Правила нападения на Ammunation/поезд", "path": "ammunation-train-rules.json" }
+        { "title": "Правила нападения на Ammunation/поезд", "path": "ammunation-train-rules.json" },
+        { "title": "Правила захвата государственных фракций", "path": "government-capture-rules.json" },
+        { "title": "Война за граффити", "path": "graffiti-war-rules.json" },
+        { "title": "Правила войны за территорию/бизнес", "path": "territory-business-war-rules.json" }
+      ]
+    },
+    {
+      "name": "Правила для государственных фракций",
+      "files": [
+        { "title": "Правила государственных фракций", "path": "government-factions-rules.json" },
+        { "title": "Правила ведения уголовных дел и внедрений", "path": "investigation-rules.json" },
+        { "title": "Правила проведения допросов", "path": "interrogation-rules.json" },
+        { "title": "Правила рейдов", "path": "raid-rules.json" },
+        { "title": "Правила снятия лидеров государственных структур", "path": "government-removal-rules.json" }
       ]
     }
   ]
