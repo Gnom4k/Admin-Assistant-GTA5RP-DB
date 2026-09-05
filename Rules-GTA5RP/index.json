@@ -5,7 +5,14 @@
       "files": [
         { "title": "Общие правила проекта", "path": "general-rules.json" },
         { "title": "Правила зеленых зон", "path": "green-zones.json" },
-        { "title": "Правила и обязанности лидеров", "path": "leader-rules.json" }
+        { "title": "Правила и обязанности лидеров", "path": "leader-rules.json" },
+        { "title": "Правила для криминальных фракций", "path": "criminal-rules.json" }
+      ]
+    },
+    {
+      "name": "Правила для криминальных фракций",
+      "files": [
+        { "title": "Правила для криминальных фракций", "path": "criminal-rules.json" }
       ]
     }
   ]
