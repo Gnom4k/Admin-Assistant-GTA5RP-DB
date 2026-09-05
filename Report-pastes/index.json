@@ -3,7 +3,7 @@
     {
       "name": "Основной раздел",
       "files": [
-        { "title": "Общие пасты для репортов", "path": "general-pastes.json" }
+        { "title": "Пасты для репортов", "path": "general-pastes.json" }
       ]
     }
   ]
