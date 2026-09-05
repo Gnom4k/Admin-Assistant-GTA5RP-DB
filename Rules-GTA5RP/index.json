@@ -1,0 +1,10 @@
+{
+  "groups": [
+    {
+      "name": "Основной раздел",
+      "files": [
+        { "title": "Общие правила проекта", "path": "general-rules.json" }
+      ]
+    }
+  ]
+}
