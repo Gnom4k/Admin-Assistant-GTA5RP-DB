@@ -1,1 +1,51 @@
-
+{
+  "projects": [
+    {
+      "id": "gta5rp",
+      "name": "GTA5RP",
+      "iconPath": "logo_gta5rp.png",
+      "servers": [
+        {
+          "id": "la-puerta",
+          "name": "La Puerta",
+          "groups": [
+            {
+              "name": "Памятка для администратора (La Puerta)",
+              "type": "blocks",
+              "blocksPath": "La-Puerta/admin-memo.json"
+            },
+            {
+              "name": "Законодательная база (La Puerta)",
+              "type": "files",
+              "contentType": "rules",
+              "files": [
+                { "title": "Уголовный кодекс", "path": "La-Puerta/legal-criminal.json" },
+                { "title": "Гражданский кодекс", "path": "La-Puerta/legal-civil.json" },
+                { "title": "Дорожный кодекс", "path": "La-Puerta/legal-traffic.json" },
+                { "title": "Процессуальный кодекс", "path": "La-Puerta/legal-procedure.json" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "global": [
+    {
+      "name": "Пасты для репортов",
+      "type": "files",
+      "contentType": "pastes",
+      "files": [
+        { "title": "Общие пасты для репортов", "path": "pastes/general-pastes.json" }
+      ]
+    },
+    {
+      "name": "Краткое WIKI",
+      "type": "files",
+      "contentType": "pastes",
+      "files": [
+        { "title": "Общая WIKI", "path": "wiki/general-wiki.json" }
+      ]
+    }
+  ]
+}
