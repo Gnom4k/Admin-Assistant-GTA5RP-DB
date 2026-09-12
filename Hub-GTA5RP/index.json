@@ -3,7 +3,7 @@
     {
       "id": "gta5rp",
       "name": "GTA5RP",
-      "iconPath": "logo_gta5rp.png",
+      "iconPath": "logo_dark.png",
       "servers": [
         {
           "id": "la-puerta",
@@ -19,10 +19,22 @@
               "type": "files",
               "contentType": "rules",
               "files": [
-                { "title": "Уголовный кодекс", "path": "La-Puerta/legal-criminal.json" },
-                { "title": "Гражданский кодекс", "path": "La-Puerta/legal-civil.json" },
-                { "title": "Дорожный кодекс", "path": "La-Puerta/legal-traffic.json" },
-                { "title": "Процессуальный кодекс", "path": "La-Puerta/legal-procedure.json" }
+                {
+                  "title": "Уголовный кодекс",
+                  "path": "La-Puerta/legal-criminal.json"
+                },
+                {
+                  "title": "Гражданский кодекс",
+                  "path": "La-Puerta/legal-civil.json"
+                },
+                {
+                  "title": "Дорожный кодекс",
+                  "path": "La-Puerta/legal-traffic.json"
+                },
+                {
+                  "title": "Процессуальный кодекс",
+                  "path": "La-Puerta/legal-procedure.json"
+                }
               ]
             }
           ]
@@ -36,7 +48,10 @@
       "type": "files",
       "contentType": "pastes",
       "files": [
-        { "title": "Общие пасты для репортов", "path": "pastes/general-pastes.json" }
+        {
+          "title": "Общие пасты для репортов",
+          "path": "pastes/general-pastes.json"
+        }
       ]
     },
     {
@@ -44,7 +59,10 @@
       "type": "files",
       "contentType": "pastes",
       "files": [
-        { "title": "Общая WIKI", "path": "wiki/general-wiki.json" }
+        {
+          "title": "Общая WIKI",
+          "path": "wiki/general-wiki.json"
+        }
       ]
     }
   ]
